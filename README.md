@@ -17,7 +17,7 @@ Empowering users with instant legal information, document explanations, and guid
 LegalMate AI is a conversational AI platform that simplifies the law. Whether you're explaining complex contract terms or looking for general legal guidance, LegalMate is your 24/7 companion.
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1593113598332-90928ff839de?w=800&h=300&fit=crop&crop=top" alt="LegalMate AI Interface" width="600">
+  <img src="https://images.unsplash.com/photo-1521791136064-7986c2923216?w=800&h=300&fit=crop&crop=top" alt="LegalMate AI Interface" width="600">
 </p>
 
 ## Features
