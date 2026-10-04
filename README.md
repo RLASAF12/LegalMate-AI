@@ -1,3 +1,5 @@
+> **Archived.** This repo moved to the private repo RLASAF12/legal-archive (folder `LegalMate-AI/`, full history preserved). Archived 2026-10-04.
+
 # LegalMate AI
 
 ### AI Legal Assistant — Business Law Answers in Plain Language
